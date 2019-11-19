@@ -4,7 +4,7 @@
 
 __author__ = """Priam AI"""
 __email__ = 'paolo@priam.ai'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 from pandas import *
 
