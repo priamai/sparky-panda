@@ -13,9 +13,9 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [ ]
 
-setup_requirements = [ ]
+setup_requirements = ['pandas==0.25.3','numpy==1.17.4','sqlparse==0.3.0']
 
-test_requirements = [ ]
+test_requirements = ['pandas==0.25.3','numpy==1.17.4','sqlparse==0.3.0']
 
 setup(
     author="Priam AI",
